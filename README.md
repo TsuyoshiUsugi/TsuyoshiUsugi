@@ -1,6 +1,3 @@
-//<h1 align="center">こんにちは 薄衣毅といいます。</h1>
-//<h3 align="center">バンタンゲームアカデミーで学んでいる学生です</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsuyoshiusugi&label=Profile%20views&color=0e75b6&style=flat" alt="tsuyoshiusugi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsuyoshiusugi" alt="tsuyoshiusugi" /></a> </p>
