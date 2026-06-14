@@ -1,19 +1,14 @@
 
+
 # Hi, I'm Tsuyoshi Usugi! <img width="48" height="48" alt="Morumo_v2_smoke" src="https://github.com/user-attachments/assets/5aee411a-d2bc-419f-b00b-32be7d786d3d" />
 
 
 I am a game programmer / game creator.
 
-### Languages
+### Languages / Engines / Tools
 <img width="48" height="48" alt="CSharp" src="https://github.com/user-attachments/assets/e79c1808-bd56-4c10-a439-c03334142955" />
+<img width="48" height="48" alt="Unity" src="https://github.com/user-attachments/assets/4b50ee39-d63a-4411-b344-728f6a1c5920" />
 
-### ⚙️ Engines
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-</p>
-
-### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
