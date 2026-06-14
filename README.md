@@ -10,10 +10,8 @@ I am a game programmer / game creator.
 <img width="48" height="48" alt="Unity" src="https://github.com/user-attachments/assets/4b50ee39-d63a-4411-b344-728f6a1c5920" />
 <img width="48" height="48" alt="Aseprite" src="https://github.com/user-attachments/assets/79124eda-2fac-42bf-9e8c-8024f0d0861f" />
 <img width="48" height="48" alt="Blender" src="https://github.com/user-attachments/assets/bbbfb135-fdec-4489-8ea4-41d336bdc8f7" />
+<img width="48" height="48" alt="Claude" src="https://github.com/user-attachments/assets/72314b2d-011a-42f8-bb31-60a591b35298" />
 
-<p>
-  <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
 
 ### 🎮 Current Focus
 Currently working on **Indie Game Development**, focusing on AI architecture and game mechanics.
