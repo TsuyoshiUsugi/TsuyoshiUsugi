@@ -8,10 +8,10 @@ I am a game programmer / game creator.
 ### Languages / Engines / Tools
 <img width="48" height="48" alt="CSharp" src="https://github.com/user-attachments/assets/e79c1808-bd56-4c10-a439-c03334142955" />
 <img width="48" height="48" alt="Unity" src="https://github.com/user-attachments/assets/4b50ee39-d63a-4411-b344-728f6a1c5920" />
+<img width="48" height="48" alt="Aseprite" src="https://github.com/user-attachments/assets/79124eda-2fac-42bf-9e8c-8024f0d0861f" />
+<img width="48" height="48" alt="Blender" src="https://github.com/user-attachments/assets/bbbfb135-fdec-4489-8ea4-41d336bdc8f7" />
 
 <p>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
